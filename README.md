@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ffacu
 - 👀 I’m interested in programming, aviation (I'm pilot student), music (I'm musician), fitness and nutrition, philosophy, finance and economy, astrology, and a lot more.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning HTML & CSS with freeCodeCamp.
 - 💞️ I’m looking to collaborate on everything that an absolute beginner is able to do.
 - 📫 You can reach me on IG like: l_roy._
 
